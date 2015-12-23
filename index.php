@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php echo "<h1>Ilan Laloum</h1>" ?>
+        <?php echo "<h1>Shifra</h1>" ?>
         <?php
             echo phpinfo();
         ?>
